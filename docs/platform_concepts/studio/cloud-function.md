@@ -54,7 +54,7 @@ return new Promise(resolve => {
 });
 ```
 
-### Decode BASE64
+<!-- ### Decode BASE64
 
 **The Base64 Alphabet contains 64 basic ASCII characters.**
 
@@ -80,4 +80,4 @@ If we receive an encrypted string through API, then we need to decrypt it first 
     ]);
 ```
 
-For more information : [Click Here](https://developer.mozilla.org/en-US/docs/Glossary/Base64)
+For more information : [Click Here](https://developer.mozilla.org/en-US/docs/Glossary/Base64) -->
